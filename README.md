@@ -1,2 +1,2 @@
 # Continuous_deploy
-testing CICD
+testing CICD process
